@@ -1,0 +1,2 @@
+# Mypic
+image bed
